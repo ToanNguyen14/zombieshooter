@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587045382890",
+    "project_id": "dribble-kings",
+    "storage_bucket": "dribble-kings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587045382890:android:26494fa3e59b0600c70593",
+        "android_client_info": {
+          "package_name": "com.dribblekings.toannguyenkhanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587045382890-egmgcnr6tei9n42lkv8c03pib0e7kjdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ps9ZuoWZ3XDSQDVklJ2zPhWyqP-NdaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587045382890-egmgcnr6tei9n42lkv8c03pib0e7kjdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
