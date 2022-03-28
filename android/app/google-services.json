@@ -1,38 +1,39 @@
 {
   "project_info": {
-    "project_number": "587045382890",
-    "project_id": "dribble-kings",
-    "storage_bucket": "dribble-kings.appspot.com"
+    "project_number": "760619863198",
+    "project_id": "zombie-shooter-315a3",
+    "storage_bucket": "zombie-shooter-315a3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:587045382890:android:26494fa3e59b0600c70593",
+        "mobilesdk_app_id": "1:760619863198:android:948054c1030c940b85bf8f",
         "android_client_info": {
-          "package_name": "com.dribblekings.toannguyenkhanh"
+          "package_name": "com.zombieshooter.toannguyenkhanh"
         }
       },
       "oauth_client": [
         {
-          "client_id": "587045382890-egmgcnr6tei9n42lkv8c03pib0e7kjdk.apps.googleusercontent.com",
+          "client_id": "760619863198-77fpof2p51fhuikbpjo6tsl8c0as8v73.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD9ps9ZuoWZ3XDSQDVklJ2zPhWyqP-NdaY"
+          "current_key": "AIzaSyDOBlknPRzKFcjuXk2Bt7OqtuCVtz3Dlrk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "587045382890-egmgcnr6tei9n42lkv8c03pib0e7kjdk.apps.googleusercontent.com",
+              "client_id": "760619863198-77fpof2p51fhuikbpjo6tsl8c0as8v73.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
         }
-      }
+      },
+      "admob_app_id": "ca-app-pub-5425858352547326~1445408024"
     }
   ],
   "configuration_version": "1"
